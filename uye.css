@@ -1,0 +1,425 @@
+
+.image{
+	position:relative;
+	left:-8px;
+	top:-6px;
+	background-image:url("images/i.png");
+	background-repeat:no-repeat;
+	width:1347;
+	height:300;
+	background-color:DimGray;
+    display:block;	
+    text-indent:-9999px;
+}
+.boxx{	
+	margin-top:200px;
+	background-color:SaddleBrown;
+	width:1347;
+	height:80;
+}
+.button{
+	 position:relative;
+	 left:230px;
+	 top:-160px;
+	 width:365px;
+}
+.ButtonGrup{
+	padding:10px;
+	font-family:"Comic Sans Ms"; 
+	cursor:pointer;
+	border:2px double black;
+}
+.ButtonGrup:hover{
+	color:red;
+	text-shadow:1px 2px 3px #EB3865,
+	             2px 3px 7px #EB3865;
+}
+.s{
+	text-decoration:none;
+}
+#tvButton{
+	padding-left:25px;
+	padding-right:25px;
+}
+
+.uye{
+	 position:relative;
+	 left:1160px;
+	 top:-80px;
+	 cursor:pointer;
+}
+.simge{	
+	background-image:url("images/Search.png");
+	background-repeat:no-repeat;
+	border-radius:10px;
+	width:200px;
+	height:25px;
+	padding-left:27px;
+	position:relative;
+	left:900px;
+	top:-120px;
+}
+
+.box{
+    position:relative;
+	top:-160px;
+	left:-5px;
+	background-color:lemonchiffon;
+	width:1345px;
+	height:400;
+}
+.box1{
+    position:relative;
+	top:-155px;
+	left:-5px;
+	background-color:lemonchiffon;
+	width:1345px;
+	height:1550;
+}
+.paragraf{
+	position:relative;
+	top:80px;
+	left:0px;
+	text-align:center;
+	text-shadow:1px 2px 3px #EB3865,
+	             2px 3px 7px #EB3865;
+	font-size:40px;
+	cursor:auto;
+}
+.im{
+	position:relative;
+	top:85px;
+	left:100px;
+	width:350px;
+	cursor:pointer;
+	border-radius:20px;
+	margin:10px;
+}
+
+#imbir{
+	border:6px solid black;					   
+}
+#imiki{
+	border:6px solid black;
+}
+#imuc{
+	border:6px solid black;
+}
+.ip{
+	color:white;
+	position:relative;
+	top:-8px;
+	left:100px;
+	width:343;
+    border-radius:20px;
+	background-color:hsla(0, 0%, 0%, 0.64);
+	text-align:center;
+	padding:7px;
+}
+.ip:hover{
+	  text-shadow:1px 2px 3px #EB3865,
+	             2px 3px 7px #EB3865;
+	cursor:pointer;
+}
+.ipp{
+	color:white;
+	position:relative;
+	top:-66px;
+	left:485px;
+	width:342;
+    border-radius:20px;
+	background-color:hsla(0, 0%, 0%, 0.64);
+	text-align:center;
+	padding:7px;
+}
+.ipp:hover{
+	text-shadow:1px 2px 3px #EB3865,
+	             2px 3px 7px #EB3865;
+	cursor:pointer;			 
+
+}
+.ippp{
+	color:white;
+	position:relative;
+	top:-123px;
+	left:872px;
+	width:341;
+    border-radius:20px;
+	background-color:hsla(0, 0%, 0%, 0.64);
+	text-align:center;
+	padding:7px;
+}
+.ippp:hover{
+	text-shadow:1px 2px 3px #EB3865,
+	             2px 3px 7px #EB3865;
+	cursor:pointer;			
+}
+
+
+.sonBox{
+	position:relative;
+	top:-170px;
+	left:-9px;
+	background-color:DimGray;
+	width:1348;
+	height:700;
+}
+
+.prg{
+	color:gold;
+	margin-left:-8px;
+	cursor:pointer;
+}
+div>p{
+	margin:15px;
+	font-weight:50px;
+	padding:10px;
+	font-family:"Comic Sans Ms";
+    cursor:text;
+	color:white;
+}
+
+.ilk{
+	position:relative;
+	top:-680px;
+	left:400px;
+	color:white;
+		cursor:pointer;
+}
+.ilkPhoto{
+	width:20px;
+	height:20px;
+	margin-left:35px;
+	cursor:pointer;
+}
+.tavsiye{
+	cursor:text;
+}
+.uygulama{
+	cursor:text;
+}
+.sos{
+	cursor:text;
+}
+.iletisim{
+	position:relative;
+	top:-670px;
+	left:420px;
+
+}
+.iletisimPhoto{
+	width:30px;
+	height:30px;
+    margin:14px;
+    margin-left:60px;	
+}
+.numaralar{
+	position:relative;
+	top:-910px;
+	left:520px;
+}
+.iletisimNumara{
+	margin:14px;
+	cursor:text;
+}
+.app{
+	position:relative;
+	top:-840px;
+	left:450px;
+}
+.store{
+	width:150px;
+	height:60px;
+	cursor:pointer;
+}
+.sosyal{
+	position:relative;
+	top:-780px;
+	left:50px;
+}
+.medya{
+	margin-left:15px;
+	cursor:pointer;
+}
+.box3{
+	position:relative;
+	top:19px;
+	left:440px;
+	background-color:Goldenrod;
+	width:872px;
+	height:140px;
+	cursor:text;
+}
+.b{
+	position:relative;
+	top:19px;
+	left:430px;
+	color:yellow;
+	cursor:text;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .uye1
+    {
+        width: 350px;
+        height: 345px;
+        margin-left: 400px;
+        margin-top: 24px;
+        background-color: #eeeeee;
+    }
+    
+    .uye1 input
+    {
+        display: block;
+        margin-top: 20px;
+        margin-left: 90px;
+    }
+    #bir
+    {
+        margin-top: 25px;
+    }
+    #mail
+    {
+        width: 48px;
+        margin-left: 23px;
+        margin-top: -67px;
+    }
+    #pass
+    {
+        width: 48px;
+        margin-left: 23px;
+        margin-top: 25px;
+    }
+    #hatirla
+    {
+        width: 75px;
+        margin-left: 160px;
+    }
+    .yukari
+    {
+        
+        font-size: large;
+        font-weight: bold;
+        word-spacing: 3px;
+        margin-left: 125px;
+    }
+    .enter
+    {
+        background-color: #48a8f7;
+       
+    }
+    #kayd
+    {
+        width: 68px;
+        height: 22px;
+        margin-left: 195px;
+        margin-top: -22px;
+    }
+    #forget
+    {
+        text-decoration: none;
+        margin-left: 88px;
+        font-size: 14px;
+    }
+    .sosyal3
+    {
+        display: block;
+        width: 290px;
+        height: 24px;
+        margin-left: 438px;
+        margin-top: -77px;
+        background-color: #0080ff;
+    }
+    #t
+    {
+        background-color: #3e3eff;
+    }
+    
+    /* on/off switch  */
+    .onoffswitch
+    {
+        position: relative; width: 55px;
+        margin-left: 515px;
+        margin-top: -124px;
+    }
+    .onoffswitch-checkbox
+    {
+        display: none;
+    }
+    .onoffswitch-label
+    {
+        display: block;
+        cursor: pointer;
+        height: 22px;
+        border: 0px solid #FFFFFF; border-radius: 30px;
+        background-color: #9E9E9E;
+    }
+    .onoffswitch-label:before
+    {
+        content: "";
+        display: block;
+        width: 30px;
+        margin: -2px;
+        background: #FFFFFF;
+        position: absolute;
+        top: 0; bottom: 0; right: 31px;
+        border-radius: 30px;
+      
+    }
+    .onoffswitch-checkbox:checked + .onoffswitch-label
+    {
+        background-color: #69b8f8;
+    }
+    .onoffswitch-checkbox:checked + .onoffswitch-label, .onoffswitch-checkbox:checked + .onoffswitch-label:before
+    {
+       border-color: #69b8f8;
+    }
+    .onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner
+    {
+        margin-left: 0;
+    }
+    .onoffswitch-checkbox:checked + .onoffswitch-label:before
+    {
+        right: 1px; 
+        box-shadow: 3px 6px 18px 0px rgba(255, 0, 0, 0.2);
+    }

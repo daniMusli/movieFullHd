@@ -1,0 +1,222 @@
+.image{
+	position:relative;
+	left:-8px;
+	top:-6px;
+	background-image:url("images/i.png");
+	background-repeat:no-repeat;
+	width:1347;
+	height:300;
+	background-color:DimGray;
+    display:block;	
+    text-indent:-9999px;
+}
+.boxx{	
+	margin-top:200px;
+	background-color:SaddleBrown;
+	width:1347;
+	height:80;
+}
+.button{
+	 position:relative;
+	 left:230px;
+	 top:-160px;
+	 width:365px;
+}
+.ButtonGrup{
+	padding:10px;
+	font-family:"Comic Sans Ms"; 
+	cursor:pointer;
+	border:2px double black;
+}
+.ButtonGrup:hover{
+	color:red;
+	text-shadow:1px 2px 3px #EB3865,
+	             2px 3px 7px #EB3865;
+}
+.s{
+	text-decoration:none;
+}
+#tvButton{
+	padding-left:25px;
+	padding-right:25px;
+}
+
+.uye{
+	 position:relative;
+	 left:1160px;
+	 top:-80px;
+	 cursor:pointer;
+}
+.simge{	
+	background-image:url("images/Search.png");
+	background-repeat:no-repeat;
+	border-radius:10px;
+	width:200px;
+	height:25px;
+	padding-left:27px;
+	position:relative;
+	left:900px;
+	top:-120px;
+}
+
+
+
+.box{
+    position:relative;
+	top:-155px;
+	left:-10px;
+	background-color:lemonchiffon;
+	width:1345px;
+	height:1500;
+}
+.detayBox{
+	background-color:snow;
+	width:600px;
+	height:540;
+	position:absolute;
+	top:117px;
+	left:620px;
+	padding:30px;
+}
+.paragraf{
+	position:relative;
+	top:2px;
+	left:-15px;
+	text-align:center;
+	color:white;
+	font-size:40px;
+	cursor:auto;
+	width:1309px;
+	height:70px;
+	background-color:brown;
+	padding:20px;
+}
+.im{
+	position:relative;
+	top:-80px;
+	left:120px;
+	width:500px;
+	height:600px;
+}
+.p{
+	line-height:25px;
+	text-align:justify;
+	color:black;
+}
+.title{
+	text-align:center;
+	color:brown;
+	font-size:50px;
+	font-family:"Comic Sans Ms"; 
+	
+}
+.video{
+	position:relative;
+	top:0px;
+	left:260px;
+	width:800px;
+}
+
+
+.sonBox{
+	position:relative;
+	top:-161px;
+	left:-9px;
+	background-color:DimGray;
+	width:1348;
+	height:700;
+}
+
+.prg{
+	color:gold;
+	margin-left:-8px;
+	cursor:text;
+	cursor:pointer;
+}
+div>p{
+	margin:15px;
+	font-weight:50px;
+	padding:10px;
+	font-family:"Comic Sans Ms";
+    cursor:text;
+	color:white;
+}
+
+.ilk{
+	position:relative;
+	top:-680px;
+	left:400px;
+	color:white;
+		cursor:pointer;
+}
+.ilkPhoto{
+	width:20px;
+	height:20px;
+	margin-left:35px;
+	cursor:pointer;
+}
+.tavsiye{
+	cursor:text;
+}
+.uygulama{
+	cursor:text;
+}
+.sos{
+	cursor:text;
+}
+.iletisim{
+	position:relative;
+	top:-670px;
+	left:420px;
+
+}
+.iletisimPhoto{
+	width:30px;
+	height:30px;
+    margin:14px;
+    margin-left:60px;	
+}
+.numaralar{
+	position:relative;
+	top:-910px;
+	left:520px;
+}
+.iletisimNumara{
+	margin:14px;
+	cursor:text;
+}
+.app{
+	position:relative;
+	top:-840px;
+	left:450px;
+}
+.store{
+	width:150px;
+	height:60px;
+	cursor:pointer;
+}
+.sosyal{
+	position:relative;
+	top:-780px;
+	left:50px;
+}
+.medya{
+	margin-left:15px;
+	cursor:pointer;
+}
+.box3{
+	position:relative;
+	top:19px;
+	left:440px;
+	background-color:Goldenrod;
+	width:872px;
+	height:140px;
+	cursor:text;
+}
+.b{
+	position:relative;
+	top:19px;
+	left:430px;
+	color:yellow;
+	cursor:text;
+}
